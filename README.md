@@ -12,3 +12,5 @@ To keep things straightforward, I’ve opted for two data sources.
 - [LIC](https://licindia.in/web/guest/know-your-life-insurance "LIC") : This data source corresponds to the website link of LIC.
 
 [LlamaIndex](https://docs.llamaindex.ai/en/stable/ "LlamaIndex") serves as a versatile and straightforward data framework designed to seamlessly integrate custom data sources with expansive language models. It equips us with essential tools to enhance ourLarge Language Model (LLM) applications by effortlessly incorporating diverse datasets.
+
+![](https://github.com/Sakil786/LLM-CHAT-ASSISTANT-WITH-DYNAMIC-CONTEXT-BASED-ON-QUERY/blob/main/image1.png)
